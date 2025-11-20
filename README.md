@@ -1,3 +1,5 @@
 # Olympics solutions
 
-Repo for me
+Here is contest problems, solved by me
+
+And some algorithms
